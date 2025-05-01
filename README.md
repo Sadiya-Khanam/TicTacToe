@@ -7,7 +7,7 @@ I  created the following classes:
 2. Board: handles the game grid, placing moves, checking win/draw
 3. Game: controls turns and manages the overall flow
 
-1. Class: Player
+ Class: Player
    ➤ Purpose:
       Stores each player's name and symbol (X or O).
 
@@ -21,7 +21,7 @@ I  created the following classes:
     }
 }
 
-2. Class: Board
+ Class: Board
    ➤ Purpose:
       Handles the 3x3 grid, move validation, printing, win/draw checks.
    
@@ -40,7 +40,7 @@ I  created the following classes:
 
   isFull(): Detects a draw.
 
-3. Class: Game
+ Class: Game
    ➤ Purpose:
       Handles the game loop — alternating turns, taking inputs, checking for win/draw.
    
@@ -56,7 +56,7 @@ I  created the following classes:
       Checks for win or draw.
       Switches players each turn.
 
-4. TicTacToe (Main Class)
+ TicTacToe (Main Class)
    ➤ Purpose:
       Entry point of the program. Takes player names, creates objects, and starts the game.
    
