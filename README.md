@@ -1,6 +1,6 @@
 # TicTacToe
 
-I’ll use an object-oriented approach for this.
+I used an object-oriented approach for this project.
 I  created the following classes:
 
 1. Player: stores name and symbol
